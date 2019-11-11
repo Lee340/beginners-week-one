@@ -1,0 +1,14 @@
+CMD+N => New File on a new tab
+CMD+S => Save
+CMD+Z => Undo
+CMD+SHIFT+Z => Re-do (opposite of CMD+Z)
+CMD+C => Copy
+CMD+V => Paste
+CMD+X (when there is text selected) => Cut
+CMD+X (when there is NOT text selected) => Cut line
+CMD+A => Select all
+
+-------
+
+CMD+W => Close tab
+CMD+SHIFT+T => Re-open last closed tab
